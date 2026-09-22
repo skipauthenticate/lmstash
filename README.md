@@ -1,4 +1,4 @@
-# MindSage
+# LLMStash
 
 Your private memory layer for AI tools.
 
