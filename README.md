@@ -2,6 +2,8 @@
 
 Your private memory layer for AI tools.
 
+LMStash is the public repository for MindSage, the application in this codebase.
+
 MindSage gives assistants, coding agents, and personal AI workflows a place to remember the useful stuff: project notes, docs, AI conversations, files, images, audio, connector exports, and quick decisions you do not want to paste into every chat again.
 
 It is local-first, citation-heavy, and built for sensitive personal data. Ask a question, get an answer with sources, see what is stale or missing, and keep the raw private context on your machine by default.
@@ -22,7 +24,7 @@ Think of it as the calm, local brain behind the tools you already use.
 ## What Is In The Box
 
 ```text
-mindsage-open-source/
+lmstash/
 ├── mindsage/             # Express backend, connectors, Python vector store, MCP
 ├── mindsage-frontend/    # React/Vite app for search, chat, consent, media, graphs
 ├── docs/                 # Public readiness, strategy, and comparison docs

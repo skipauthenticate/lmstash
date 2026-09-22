@@ -132,5 +132,5 @@ Run:
 git add .
 git commit --amend --no-edit
 git push --force-with-lease origin main
-gh run watch --repo skipauthenticate/mindsage-open-source --exit-status
+gh run watch --repo skipauthenticate/lmstash --exit-status
 ```

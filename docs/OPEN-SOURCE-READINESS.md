@@ -8,7 +8,7 @@ MindSage is published as a single public repository containing backend, vector s
 - Core security and red-team reports are present under `docs/`.
 - Top-level license, security policy, contributing guide, code of conduct, agent install guide, CI, and LLM doc map are part of the public repo.
 - The tracked `data/test-pii-docs/` corpus is synthetic and documented.
-- The public repo is `https://github.com/skipauthenticate/mindsage-open-source`.
+- The public repo is `https://github.com/skipauthenticate/lmstash`.
 
 ## Public Release Gate
 
