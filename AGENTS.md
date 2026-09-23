@@ -37,14 +37,6 @@ Frontend dev:
 cd mindsage-frontend && npm run dev
 ```
 
-After changes to source folders or imports, update the diagram from the repository root:
-
-```bash
-npx --yes github:skipauthenticate/archcard . --title LMStash
-```
-
-Commit both `docs/architecture.svg` and `docs/architecture-map.md` with the change.
-
 ## Safety Rules
 
 - Do not print or commit secrets, cookies, browser profiles, captures, uploads, exports, vector databases, or runtime `data/` content.

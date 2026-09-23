@@ -8,10 +8,6 @@ MindSage gives assistants, coding agents, and personal AI workflows a place to r
 
 It is local-first, citation-heavy, and built for sensitive personal data. Ask a question, get an answer with sources, see what is stale or missing, and keep the raw private context on your machine by default.
 
-[![LMStash source map with source areas and direct file imports](docs/architecture.svg)](docs/architecture-map.md)
-
-Open the map to see every scanned file and direct local import. [Made with Archcard](https://github.com/skipauthenticate/archcard).
-
 ## The Short Version
 
 MindSage is for you if you want AI tools that can:
